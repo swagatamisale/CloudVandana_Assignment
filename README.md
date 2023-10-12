@@ -1,2 +1,0 @@
-# CloudVandana_Assignment
-Assignment
